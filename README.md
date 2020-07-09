@@ -145,4 +145,5 @@ tests/test_models/test_engine | Contains unittest files to test classes in dir `
 
 * Angie Castaño <https://github.com/AngieCastano1634>
 * John Garcia <https://github.com/jgarcia15121982>
+* Julian Solo
 
